@@ -1,5 +1,5 @@
-# Youtube Video Search Sample
-Youtube Data API(https://developers.google.com/youtube/v3?hl=ja) を使用した、動画検索プログラムの例です。  
+# YouTube Video Search Sample
+YouTube Data API(https://developers.google.com/youtube/v3?hl=ja) を使用した、動画検索プログラムの例です。  
 keywordを指定し、そのkeywordから動画の一覧を取得できます。
 
 ## 制限事項
